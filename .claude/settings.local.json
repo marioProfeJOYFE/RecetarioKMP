@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd:*)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "Bash(./gradlew:*)"
+    ]
+  }
+}
