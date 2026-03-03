@@ -3,6 +3,7 @@ package com.mrh.recetario.di
 import androidx.room.Room
 import com.mrh.recetario.database.AppDatabase
 import kotlinx.cinterop.ExperimentalForeignApi
+import org.koin.core.module.Module
 import org.koin.dsl.module
 import platform.Foundation.NSHomeDirectory
 
